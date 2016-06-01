@@ -1,0 +1,11 @@
+/* 
+  Filelocalization.strings
+  IT国际化
+
+  Created by student on 16/5/31.
+  Copyright © 2016年 BestRiven. All rights reserved.
+*/
+"hometitle" = "首页";
+"btntitle"  = "按钮";
+"lableText" = "你好,%@";
+"imageName" = "pic3.jpg";
